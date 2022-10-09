@@ -42,11 +42,6 @@ const sections = [
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
 	{title: "📱 • Nomor Owner", rowId: ".owner nomor"},
-	{title: "📱 • Nomor Owner V2", rowId: ".whmods1"},
-	{title: "📱 • Pengembang", rowId: ".whmods2"},
-	{title: "📱 • Creator", rowId: ".whmods3"},
-	{title: "🎨 • Biodata", rowId: ".owner bio"},
-	{title: "🌎 • Script", rowId: ".sc"},
 	]
     },{
 	title: `${htjava} SUPPORT ME –––––––·•`,
