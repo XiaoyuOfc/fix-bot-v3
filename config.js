@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Cyber Botz 」' //Main Watermark
+global.wm = '                「 Elaina Botz 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ Cyber Botz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Cyber Botz '
+global.wm3 = '⫹⫺ Elaina Botz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Zyla store`
-global.packname = 'Cyber Botz'
-global.author = '                「 Cyber Botz  あ」'
+global.packname = 'Elaina Botz'
+global.author = '                「 Elaina Botz  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
